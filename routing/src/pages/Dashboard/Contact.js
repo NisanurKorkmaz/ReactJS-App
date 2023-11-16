@@ -1,7 +1,7 @@
 import React from 'react'
 import { Formik, Field, Form} from 'formik';
 import validations from './validations'
-//formik is used for form and validation system
+//formik is used for form managment system
 
 function Contact() {
   return (
